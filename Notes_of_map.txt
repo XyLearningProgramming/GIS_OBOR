@@ -1,0 +1,13 @@
+Author: Xinyu Huang
+Date: Jun. 8, 2019
+Projection: WGS_1984
+Data Source: AidData's Geocoded 
+Global Chinese Official Finance
+https://www.aiddata.org/data/geocoded
+-chinese-global-official-finance-dataset)
+
+Maps.com_carto
+https://www.arcgis.com/home/item.html?id=bb9d0a627ee944c7a7edaa5e6d0f6d68
+
+1490409.678
+3841296.243

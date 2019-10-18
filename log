@@ -1,0 +1,6 @@
+201906071713   0     5     0as12c C:\Users\as12c\gis_data\assignments\final\KernelD_all_1 = POINTDENSITY(InputOHSA_FC, avg_usd_de, 0.4131978, KERNEL, 1.0, 345473.
+201906071713   0     0     0as12c C:\Users\as12c\gis_data\assignments\final\Extract_Kern1 = SELECTMASK(C:\Users\as12c\gis_data\assignments\final\KernelD_all_1, C:\Users\as12c\gis_data\assignments\final\t_t762)
+201906071716   0     5     0as12c C:\Users\as12c\gis_data\assignments\final\KernelD_all_1 = POINTDENSITY(InputOHSA_FC, avg_usd_de, 0.4131978, KERNEL, 1.0, 345473.
+201906071716   0     0     0as12c C:\Users\as12c\gis_data\assignments\final\Extract_Kern1 = SELECTMASK(C:\Users\as12c\gis_data\assignments\final\KernelD_all_1, C:\Users\as12c\gis_data\assignments\final\t_t763)
+201906121116   0     1     0as12c C:\Users\as12c\gis_data\assignments\final\KernelD_proj1 = POINTDENSITY(InputOHSA_FC, avg_usd_de, 0.33364600372314451, KERNEL, 1.
+201906121116   0     0     0as12c C:\Users\as12c\gis_data\assignments\final\Extract_Kern1 = SELECTMASK(C:\Users\as12c\gis_data\assignments\final\KernelD_proj1, C:\Users\as12c\gis_data\assignments\final\t_t882)
